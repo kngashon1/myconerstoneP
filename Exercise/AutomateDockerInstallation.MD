@@ -1,6 +1,6 @@
 # Create Cloud formation template for Installing Docker on Amazon Linux server.
 
-Below is the manual instructions . Add custom automations using user data script within Cloud form nation template .
+Below is the manual instructions . Add custom automations using user data script within Cloud formation template .
 
 ### Pre-requisites
 1. Amazon Linux EC2 Instance
